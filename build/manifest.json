@@ -1,0 +1,43 @@
+{
+  "action": {
+    "default_icon": {
+      "128": "icons/icon-128.png",
+      "32": "icons/icon-32.png",
+      "38": "icons/icon-38.png",
+      "512": "icons/icon-512.png"
+    },
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Y",
+        "mac": "Command+Shift+Y"
+      }
+    }
+  },
+  "default_locale": "zh_CN",
+  "description": "批量下载图片",
+  "host_permissions": ["http://*/*", "https://*/*", "\u003Call_urls>"],
+  "icons": {
+    "128": "icons/icon-128.png",
+    "32": "icons/icon-32.png",
+    "38": "icons/icon-38.png",
+    "512": "icons/icon-512.png"
+  },
+  "manifest_version": 3,
+  "name": "Image-downloads",
+  "permissions": [
+    "activeTab",
+    "downloads",
+    "storage",
+    "webRequest",
+    "scripting",
+    "declarativeNetRequest"
+  ],
+  "short_name": "image",
+  "version": "1.0.1"
+}

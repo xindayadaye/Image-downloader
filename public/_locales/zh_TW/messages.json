@@ -1,0 +1,77 @@
+{
+  "appDesc": {
+    "message": "批量下载图片"
+  },
+  "appName": {
+    "message": "批量下载图片"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "deselectall": {
+    "message": "取消全部"
+  },
+  "donotshowdialogagain": {
+    "message": "不再显示此对话框"
+  },
+  "download": {
+    "message": "下载"
+  },
+  "filterbyurlinputplaceholder": {
+    "message": "按url或名称筛选"
+  },
+  "foundLabel": {
+    "message": "发现 %n 张图片",
+    "translation_note": "保留“%n”，它将替换为找到的图像数量，即“找到22个图像”"
+  },
+  "heightLabel": {
+    "message": "高",
+    "translation_note": "高度是指图像的像素“高度”"
+  },
+  "makesurechrome": {
+    "message": "确保您没有选中中的“下载前询问每个文件的保存位置”复选框 \u003Ca id='saveaslink' href='#' target='_blank'>Edge Settings --> Advanced --> Download section.\u003C/a>"
+  },
+  "makesurefirefox": {
+    "message": "确保您没有在Firefox设置-->文件和应用程序部分选中“始终询问文件保存位置”复选框。"
+  },
+  "manyfilesnum": {
+    "message": "下载 %n 张图片",
+    "translation_note": "保留“%n”，它将替换为下载图像的数量，即“下载22个图像”"
+  },
+  "openinnewtab": {
+    "message": "新标签中打开"
+  },
+  "otherwisechrome": {
+    "message": "否则，Edge by design将为每个文件弹出“另存为…”对话框 :-("
+  },
+  "otherwisefirefox": {
+    "message": "否则，Firefox会为每个文件弹出“另存为…”对话框 :-("
+  },
+  "searchingImagesLabel": {
+    "message": "查询中..."
+  },
+  "searchsimilarimgs": {
+    "message": "谷歌反向图像搜索"
+  },
+  "selectall": {
+    "message": "选择全部"
+  },
+  "widthLabel": {
+    "message": "宽"
+  },
+  "All": {
+    "message": "全部"
+  },
+  "Small": {
+    "message": "小的"
+  },
+  "Medium": {
+    "message": "中等的"
+  },
+  "Large": {
+    "message": "大的"
+  },
+  "SaveSize": {
+    "message": "保存尺寸选择"
+  }
+}
